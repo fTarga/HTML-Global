@@ -81,3 +81,12 @@ body {
     height: auto;
     margin: 20px auto;
   }
+
+    /* Arrumando o rodapé */
+    footer {
+        background-color: black;
+        padding: 20px;
+        text-align: center;
+        margin-top: 20px;
+        color: #fff;
+      }
