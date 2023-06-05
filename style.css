@@ -1,0 +1,26 @@
+/* Todos os direitos reservados styles css "Fabio Targa" RM:551328 */
+
+/* Corpo do site */
+
+/* Custumizando as partes do texto  */
+main {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 800px;
+    margin-bottom: 20px;
+  }
+  
+  /* Custumizando o menu de navegação */
+  header {
+    background-color: #4CAF50;
+    padding: 20px;
+    text-align: center;
+  }
